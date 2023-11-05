@@ -1,1 +1,1 @@
-# algorithme-p-rimetre-du-rectangle
+# algorithme-périmetre-du-rectangle
